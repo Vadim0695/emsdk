@@ -1,3 +1,4 @@
+
 #!/bin/sh
 # Following line is responsible for selecting the best python for current host
 # This script can be called directly: `./emsdk` or indirectly: `python ./emsdk` `sh ./emsdk` or `bash ./emsdk`
